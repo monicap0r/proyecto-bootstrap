@@ -1,0 +1,41 @@
+.bg-coral{
+    background-color: coral;
+}
+
+.bg-blue{
+    background-color: cadetblue;
+}
+
+.nav-link{
+    color: blueviolet;
+}
+
+.c-violeta{
+    color: blueviolet;
+}
+
+.btn-azul{
+    background-color: #0e153a;
+    border: 2px solid #0e153a;
+    color: white;
+}
+
+.btn-azul:hover{
+    background-color: white;
+    border: 2px solid blueviolet;
+    color: blueviolet;
+}
+
+.bg-azul{
+    background-color: #0e153a;
+}
+
+.c-blanco{
+    color: white;
+}
+
+.btn-violeta{
+    background-color: blueviolet;
+    border: 2px solid blueviolet;
+    color: white;
+}
